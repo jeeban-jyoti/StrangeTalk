@@ -29,4 +29,4 @@ Strange Talk is an Android application designed to connect users randomly for te
 Contributions are welcome! If you have suggestions or want to contribute to the development of Strange Talk, please feel free to submit a pull request.
 
 ## Contact
-For any inquiries or support, please contact [strangetalk@example.com](mailto:jeebanjyoti1016@gmail.com).
+For any inquiries or support, please contact [jeebanjyoti1016@gmail.com](mailto:jeebanjyoti1016@gmail.com).
